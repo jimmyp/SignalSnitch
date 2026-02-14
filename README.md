@@ -85,3 +85,4 @@ The app requires the following permissions:
 ## License
 
 See PRD.md for product requirements and specifications.
+
