@@ -82,5 +82,7 @@ lint-results.xml
 # Mac
 .DS_Store
 
-# Gradle Wrapper
-!gradle/wrapper/gradle-wrapper.jar
+# Gradle Wrapper - DO NOT IGNORE
+!gradlew
+!gradlew.bat
+!gradle/wrapper/
